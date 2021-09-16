@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pizzas>
+  <pizza name="Маргарита" price="500"/>
+  <pizza name="Пепперони" price="600"/>
+  <pizza name="4 сыра" price="450"/>
+  <pizza name="Гавайская" price="550"/>
+  <pizza name="Вегетарианская" price="400"/>
+  <pizza name="Студенческая" price="301"/>
+  <pizza name="Баварская" price="530"/>
+  <pizza name="Венеция" price="450"/>
+  <pizza name="Фирменная" price="666"/>
+</pizzas>

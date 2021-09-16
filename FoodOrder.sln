@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodOrder", "FoodOrder\FoodOrder.csproj", "{2ADF3302-1806-46D9-AF0A-FDE5188983D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dishes", "Dishes\Dishes.csproj", "{5E5C0735-2ED0-4B5A-99DE-1175146FFAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADF3302-1806-46D9-AF0A-FDE5188983D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADF3302-1806-46D9-AF0A-FDE5188983D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADF3302-1806-46D9-AF0A-FDE5188983D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADF3302-1806-46D9-AF0A-FDE5188983D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5C0735-2ED0-4B5A-99DE-1175146FFAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5C0735-2ED0-4B5A-99DE-1175146FFAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5C0735-2ED0-4B5A-99DE-1175146FFAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5C0735-2ED0-4B5A-99DE-1175146FFAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38544464-6BA6-4340-9989-CB4C76A0BBB0}
+	EndGlobalSection
+EndGlobal

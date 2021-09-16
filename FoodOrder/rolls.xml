@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rootElement>
+  <rolls name="Калифорния" price="250"/>
+  <rolls name="С лососем" price="320"/>
+  <rolls name="С угрём" price="380"/>
+  <rolls name="Филадельфия" price="300"/>
+  <rolls name="Ярославские" price="1010"/>
+  <rolls name="Исумбоси" price="400"/>
+  <rolls name="Саппоро" price="340"/>
+  <rolls name="Футомаки" price="260"/>
+  <rolls name="Харакири" price="320"/>
+  <rolls name="Каппа Маки" price="170"/>
+  <rolls name="Маки Сяке" price="450"/>
+</rootElement>
